@@ -1,0 +1,94 @@
+Studentu skaicius: 1000
+Failo nuskaitymas su1000studentais uztruko: 0.0010995 sekundes
+Failo rusiavimas su 1000 studentais i dvi grupes uztruko: 0.0099865 sekundes
+Failo isvedimas su 1000 studentais i vargsiukus uztruko: 0 sekundes
+Failo isvedimas su 1000 studentais i galvociai uztruko: 0 sekundes
+
+Studentu skaicius: 1000
+Failo nuskaitymas su1000studentais uztruko: 0.0044488 sekundes
+Failo rusiavimas su 1000 studentais i dvi grupes uztruko: 0.0104869 sekundes
+Failo isvedimas su 1000 studentais i vargsiukus uztruko: 0 sekundes
+Failo isvedimas su 1000 studentais i galvociai uztruko: 0 sekundes
+
+Studentu skaicius: 1000
+Failo nuskaitymas su1000studentais uztruko: 0 sekundes
+Failo rusiavimas su 1000 studentais i dvi grupes uztruko: 0.0084798 sekundes
+Failo isvedimas su 1000 studentais i vargsiukus uztruko: 0.0005064 sekundes
+Failo isvedimas su 1000 studentais i galvociai uztruko: 0 sekundes
+
+
+Studentu skaicius: 10000
+Failo nuskaitymas su10000studentais uztruko: 0.10631 sekundes
+Failo rusiavimas su 10000 studentais i dvi grupes uztruko: 0.055121 sekundes
+Failo isvedimas su 10000 studentais i vargsiukus uztruko: 0 sekundes
+Failo isvedimas su 10000 studentais i galvociai uztruko: 0.0010138 sekundes
+
+Studentu skaicius: 10000
+Failo nuskaitymas su10000studentais uztruko: 0.104284 sekundes
+Failo rusiavimas su 10000 studentais i dvi grupes uztruko: 0.0544922 sekundes
+Failo isvedimas su 10000 studentais i vargsiukus uztruko: 0 sekundes
+Failo isvedimas su 10000 studentais i galvociai uztruko: 0.0012471 sekundes
+
+Studentu skaicius: 10000
+Failo nuskaitymas su10000studentais uztruko: 0.0988306 sekundes
+Failo rusiavimas su 10000 studentais i dvi grupes uztruko: 0.0530798 sekundes
+Failo isvedimas su 10000 studentais i vargsiukus uztruko: 0 sekundes
+Failo isvedimas su 10000 studentais i galvociai uztruko: 0.0078307 sekundes
+
+
+Studentu skaicius: 100000
+Failo nuskaitymas su100000studentais uztruko: 0.814442 sekundes
+Failo rusiavimas su 100000 studentais i dvi grupes uztruko: 0.471125 sekundes
+Failo isvedimas su 100000 studentais i vargsiukus uztruko: 0.0312607 sekundes
+Failo isvedimas su 100000 studentais i galvociai uztruko: 0.0276914 sekundes
+
+Studentu skaicius: 100000
+Failo nuskaitymas su100000studentais uztruko: 0.849017 sekundes
+Failo rusiavimas su 100000 studentais i dvi grupes uztruko: 0.451485 sekundes
+Failo isvedimas su 100000 studentais i vargsiukus uztruko: 0.0376691 sekundes
+Failo isvedimas su 100000 studentais i galvociai uztruko: 0.0220326 sekundes
+
+Studentu skaicius: 100000
+Failo nuskaitymas su100000studentais uztruko: 0.816574 sekundes
+Failo rusiavimas su 100000 studentais i dvi grupes uztruko: 0.472708 sekundes
+Failo isvedimas su 100000 studentais i vargsiukus uztruko: 0.0226455 sekundes
+Failo isvedimas su 100000 studentais i galvociai uztruko: 0.068473 sekundes
+
+
+Studentu skaicius: 1000000
+Failo nuskaitymas su1000000studentais uztruko: 4.05708 sekundes
+Failo rusiavimas su 1000000 studentais i dvi grupes uztruko: 4.214 sekundes
+Failo isvedimas su 1000000 studentais i vargsiukus uztruko: 0.11765 sekundes
+Failo isvedimas su 1000000 studentais i galvociai uztruko: 0.14114 sekundes
+
+Studentu skaicius: 1000000
+Failo nuskaitymas su1000000studentais uztruko: 4.34772 sekundes
+Failo rusiavimas su 1000000 studentais i dvi grupes uztruko: 4.46248 sekundes
+Failo isvedimas su 1000000 studentais i vargsiukus uztruko: 0.12604 sekundes
+Failo isvedimas su 1000000 studentais i galvociai uztruko: 0.129882 sekundes
+
+Studentu skaicius: 1000000
+Failo nuskaitymas su1000000studentais uztruko: 4.42503 sekundes
+Failo rusiavimas su 1000000 studentais i dvi grupes uztruko: 4.20661 sekundes
+Failo isvedimas su 1000000 studentais i vargsiukus uztruko: 0.125663 sekundes
+Failo isvedimas su 1000000 studentais i galvociai uztruko: 0.144796 sekundes
+
+
+Studentu skaicius: 10000000
+Failo nuskaitymas su10000000studentais uztruko: 33.4359 sekundes
+Failo rusiavimas su 10000000 studentais i dvi grupes uztruko: 48.4355 sekundes
+Failo isvedimas su 10000000 studentais i vargsiukus uztruko: 2.49931 sekundes
+Failo isvedimas su 10000000 studentais i galvociai uztruko: 2.53262 sekundes
+
+Studentu skaicius: 10000000
+Failo nuskaitymas su10000000studentais uztruko: 61.8103 sekundes
+Failo rusiavimas su 10000000 studentais i dvi grupes uztruko: 99.1544 sekundes
+Failo isvedimas su 10000000 studentais i vargsiukus uztruko: 2.3788 sekundes
+Failo isvedimas su 10000000 studentais i galvociai uztruko: 2.30172 sekundes
+
+Studentu skaicius: 10000000
+Failo nuskaitymas su10000000studentais uztruko: 65.6912 sekundes
+Failo rusiavimas su 10000000 studentais i dvi grupes uztruko: 93.4031 sekundes
+Failo isvedimas su 10000000 studentais i vargsiukus uztruko: 2.23522 sekundes
+Failo isvedimas su 10000000 studentais i galvociai uztruko: 2.33007 sekundes
+
